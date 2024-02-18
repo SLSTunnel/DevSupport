@@ -1,7 +1,19 @@
 # DevSupport
 Welcome to our free iptv service, hope you enjoy our free service.
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+<h2 align="center">
+    My GitHub Stats
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210717541-d04de2c8-6180-4608-bf9a-366b155f403e.png" width="30" />
+    <a/>
+</h2>
+<p align="center">
+    <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api?username=sumit-sharma-02&show_icons=true&theme=dark" alt="sumit-sharma-02" />
 </p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumit-sharma-02&theme=dark" alt="sumit-sharma-02" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=sumit-sharma-02&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="sumit-sharma-02" />
+</p>
+<br>
