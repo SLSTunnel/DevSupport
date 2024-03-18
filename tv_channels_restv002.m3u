@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,ESPN 4
+http://redima.pro:8880/restv002/restv2024vnt002/574
+#EXTINF:-1,HBO HD
+http://redima.pro:8880/restv002/restv2024vnt002/337
+#EXTINF:-1,HBO 2
+http://redima.pro:8880/restv002/restv2024vnt002/335
+#EXTINF:-1,ESPN 2
+http://redima.pro:8880/restv002/restv2024vnt002/312
+#EXTINF:-1,Comedy Central HD
+http://redima.pro:8880/restv002/restv2024vnt002/994
+#EXTINF:-1,ESPN7
+http://redima.pro:8880/restv002/restv2024vnt002/1005
+#EXTINF:-1,Studio Universal HD
+http://redima.pro:8880/restv002/restv2024vnt002/1025
+#EXTINF:-1,UNIVERSAL COMEDY 
+http://redima.pro:8880/restv002/restv2024vnt002/1032
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://redima.pro:8880/restv002/restv2024vnt002/1033
+#EXTINF:-1,UNIVERSAL REALITY
+http://redima.pro:8880/restv002/restv2024vnt002/1035
+#EXTINF:-1,WARNER HD
+http://redima.pro:8880/restv002/restv2024vnt002/1037
