@@ -1,23 +1,57 @@
-#EXTM3U
-#EXTINF:-1,ESPN 4
-http://redima.pro:8880/restv002/restv2024vnt002/574
-#EXTINF:-1,HBO HD
-http://redima.pro:8880/restv002/restv2024vnt002/337
-#EXTINF:-1,HBO 2
-http://redima.pro:8880/restv002/restv2024vnt002/335
-#EXTINF:-1,ESPN 2
-http://redima.pro:8880/restv002/restv2024vnt002/312
-#EXTINF:-1,Comedy Central HD
-http://redima.pro:8880/restv002/restv2024vnt002/994
-#EXTINF:-1,ESPN7
-http://redima.pro:8880/restv002/restv2024vnt002/1005
-#EXTINF:-1,Studio Universal HD
-http://redima.pro:8880/restv002/restv2024vnt002/1025
-#EXTINF:-1,UNIVERSAL COMEDY 
-http://redima.pro:8880/restv002/restv2024vnt002/1032
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://redima.pro:8880/restv002/restv2024vnt002/1033
-#EXTINF:-1,UNIVERSAL REALITY
-http://redima.pro:8880/restv002/restv2024vnt002/1035
-#EXTINF:-1,WARNER HD
-http://redima.pro:8880/restv002/restv2024vnt002/1037
+"channels": [
+    {
+      "channel": "ESPN 4",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/574",
+      "image": "https://example.com/images/espn4.jpg"
+    ,
+    {
+      "channel": "HBO HD",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/337",
+      "image": "https://example.com/images/hbohd.jpg"
+    ,
+    {
+      "channel": "HBO 2",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/335",
+      "image": "https://example.com/images/hbo2.jpg"
+    ,
+    {
+      "channel": "ESPN 2",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/312",
+      "image": "https://example.com/images/espn2.jpg"
+    ,
+    {
+      "channel": "Comedy Central HD",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/994",
+      "image": "https://example.com/images/comedycentralhd.jpg"
+    ,
+    {
+      "channel": "ESPN7",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/1005",
+      "image": "https://example.com/images/espn7.jpg"
+    ,
+    {
+      "channel": "Studio Universal HD",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/1025",
+      "image": "https://example.com/images/studiouniversalhd.jpg"
+    ,
+    {
+      "channel": "UNIVERSAL COMEDY",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/1032",
+      "image": "https://example.com/images/universalcomedy.jpg"
+    ,
+    {
+      "channel": "UNIVERSAL CRIME HD",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/1033",
+      "image": "https://example.com/images/universalcrimehd.jpg"
+    ,
+    {
+      "channel": "UNIVERSAL REALITY",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/1035",
+      "image": "https://example.com/images/universalreality.jpg"
+    ,
+    {
+      "channel": "WARNER HD",
+      "url": "http://redima.pro:8880/restv002/restv2024vnt002/1037",
+      "image": "https://example.com/images/warnerhd.jpg"
+    }
+]
